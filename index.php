@@ -8,6 +8,8 @@
 <body>
     
     <h1>Remote git dan github 2</h1>
-    
+
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis delectus quam quos nihil doloremque natus omnis! Pariatur dicta nulla recusandae expedita perferendis. Doloremque veritatis voluptatum nostrum ipsam architecto laboriosam autem?</p>
+
 </body>
 </html>
